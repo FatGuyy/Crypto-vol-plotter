@@ -1,1 +1,2 @@
-key = '99FA8F77-086C-4D1B-A7DA-126F34B52709'
+#Enter your api key of coinapi.ios
+key = ''
